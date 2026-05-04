@@ -18,7 +18,7 @@ spec:
 
   rules: 
 
-    - host: a24351515832b4db995e4a9bec16c7cb-54902893.ap-south-1.elb.amazonaws.com  # Replace with your real domain 
+    - host: a3f99f0f9ba724900b4655e0d4765cee-669708618.ap-south-1.elb.amazonaws.com
 
       http: 
 
