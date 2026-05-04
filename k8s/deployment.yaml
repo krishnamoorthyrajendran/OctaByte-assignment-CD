@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: myapp
-          image: your-docker-image:latest
+          image: 413745378153.dkr.ecr.ap-south-1.amazonaws.com/8byte:app-547
           ports:
             - containerPort: 3000
 
