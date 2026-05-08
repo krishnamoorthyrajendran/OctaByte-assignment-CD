@@ -18,7 +18,7 @@ spec:
 
   rules: 
 
-    - host: a70ea54a75e25400aa4fc90627555d65-1203779622.ap-south-1.elb.amazonaws.com
+    - host: aa607a2aded794266b0c3bc31628891d-1410940886.ap-south-1.elb.amazonaws.com
 
       http: 
 
